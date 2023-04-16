@@ -3,10 +3,13 @@
 function minFuncion(){
     return 3;
 }
+minFuncion();
 
 
 //Expresión
 
-var miFuncion = function(a,b){
+var mFuncion = function(a,b){
    return a + b; 
 }
+
+mFuncion();
